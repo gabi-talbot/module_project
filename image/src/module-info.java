@@ -1,4 +1,4 @@
-module com.udacity.catpoint.security {
+module com.udacity.catpoint.image {
 
     requires com.miglayout.miglayout-swing;
     requires com.google.code.gson.gson;

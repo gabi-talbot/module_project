@@ -1,4 +1,4 @@
-module com.udacity.catpoint.image {
+module com.udacity.catpoint.security {
 
     exports com.udacity.catpoint.image.service;
 
